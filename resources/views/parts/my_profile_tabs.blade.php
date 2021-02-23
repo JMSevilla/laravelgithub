@@ -1,0 +1,8 @@
+@include('profile_tab.about')
+@include('profile_tab.filmography')
+@include('profile_tab.biography')
+@include('profile_tab.other_information')
+@include('profile_tab.skills')
+@include('profile_tab.files')
+@include('profile_tab.photos')
+@include('profile_tab.items')
